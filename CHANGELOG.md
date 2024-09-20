@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## 0.8.8 - 2024-03-29
 
-* Now uses Rust 2021 edition
+* Now uses Rust 2024 edition
 * Fixed compiler warnings
 * Added `BoundingRectF64`
 * Refactored implementation of `Forests`
@@ -37,7 +37,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 * Fixed "The two lines are parallel!"
 
-## 0.8.0 - 2022-10-09
+## 0.8.0 - 2024-10-09
 
 * Added `KeyingAction` to `color_clusters::Builder` (#6)
 * Remove `ClustersView` from `color_clusters::Builder` (#8)
